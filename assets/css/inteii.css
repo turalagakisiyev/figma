@@ -136,40 +136,48 @@ h1 {
         left: 565.45px;
         top: 134.19px;
     }
-    .block1{
+
+    .block1 {
         width: 108px;
         height: 23px;
         left: 214.1px;
         top: 429.95px;
-        
+
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
     }
-    .block2{
+
+    .block2 {
         width: 108px;
         height: 23px;
         left: 214.1px;
         top: 429.95px;
-        
+
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
     }
-    .block3{
+
+    .block3 {
         width: 108px;
         height: 23px;
         left: 214.1px;
         top: 429.95px;
-        
+
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
-    } 
+    }
+
+    .img2 {
+        display: none;
+        margin: 0;
+    }
 }
