@@ -148,6 +148,8 @@ h1 {
         font-weight: 400;
         font-size: 11px;
         line-height: 130%;
+
+        margin-left: 1px;
     }
 
     .block2 {
@@ -180,4 +182,47 @@ h1 {
         display: none;
         margin: 0;
     }
+}
+
+@media only screen and (max-width: 375px) {
+    h1 {
+        width: 170.08px;
+        height: 43.34px;
+        left: 36px;
+        top: 56px;
+
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 101.38%;
+    }
+
+    .metn {
+        width: 308.47px;
+        height: 174.27px;
+        left: 36px;
+        top: 107.72px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 150%;
+    }
+
+    img {
+        width: 170.55px;
+        height: 160.29px;
+        left: 101px;
+        top: 338px;
+    }
+
+    .top {
+        display: inline;
+    }
+
+
+
+
 }
